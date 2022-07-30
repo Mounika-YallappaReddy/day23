@@ -14,9 +14,9 @@ import {useState} from 'react'
 function App() {
   let [user,setUser] = useState([
   {
-      firstName:"Zakir",
-      lastName:"Shaikh",
-      email:"adhiban.madhav@gmail.com",
+      firstName:"Yallappa Reddy",
+      lastName:"Mounika",
+      email:"mounika03062000@gmail.com",
       mobile:"1234564789",
       dob:"12-09-2010",
       location:"Pune"
